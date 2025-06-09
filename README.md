@@ -35,3 +35,4 @@ Siga o passo a passo abaixo para utilizar nosso site!
    - logo após a confirmação da adoção no site, é necessário que confira seu whatsapp, pois por lá enviaremos uma mensagem         do o horário de retirada do seu companheiro no nosso local! 
 
 ## 📜 Licença
+   MIT License
