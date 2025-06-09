@@ -10,4 +10,8 @@ O projeto **Patas do Mundo** tem como objetivo facilitar a adoção de Cachorros
 
 # ⚙ Tecnologias Utilizadas
 
-![Linguagens Utilizadas](https://img.shields.io/badge/-Javascript-FFDE59?logo=javascript&logoColor=white&style=flat)
+![Linguagens Utilizadas](https://img.shields.io/badge/-Javascript-FFDE59?logo=javascript&logoColor=black&style=flat)
+![Linguagens Utilizadas](https://img.shields.io/badge/-HTML5-FF7301?logo=HTML5&logoColor=white&style=flat)
+![Linguagens Utilizadas](https://img.shields.io/badge/-CSS-01ABFF?logo=CSS&logoColor=white&style=flat)
+
+
